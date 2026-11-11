@@ -1,0 +1,6 @@
+pkg/horizon-client_bg.wasm
+pkg-st/horizon-client_bg.wasm
+*.wasm
+!*.wasm.part*
+!*.part*
+fs/boot.tar.gz

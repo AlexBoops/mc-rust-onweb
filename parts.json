@@ -1,0 +1,33 @@
+﻿{
+    "fs/res/assets/minecraft/sound.tar.gz":  {
+                                                 "parts":  [
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part0",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part1",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part2",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part3",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part4",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part5",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part6",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part7",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part8",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part9",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part10",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part11",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part12",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part13",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part14",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part15",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part16",
+                                                               "fs/res/assets/minecraft/sound.tar.gz.part17"
+                                                           ],
+                                                 "size":  354952979
+                                             },
+    "pkg/horizon-client_bg.wasm":  {
+                                       "parts":  [
+                                                     "pkg/horizon-client_bg.wasm.part0",
+                                                     "pkg/horizon-client_bg.wasm.part1",
+                                                     "pkg/horizon-client_bg.wasm.part2"
+                                                 ],
+                                       "size":  54429936
+                                   }
+}
